@@ -1,26 +1,22 @@
-# Octavia-admin-Pro-Issues
-Public repository   for submitting issues and feature request for Octavia Admin Dashboard Template 
+[![octavia-Presentation-min](https://i.ibb.co/8MMThXV/octavia-Presentation-min.jpg)](https://octavia.ui-lib.com)
 
+Octavia Admin – VueJs and Vuetify Admin Dashboard Template is clean, feature rich, extraordinarily customizable & developer friendly admin dashboard template.
 
-<a href="">![octavia-Presentation-min](https://i.ibb.co/8MMThXV/octavia-Presentation-min.jpg)</a>
+We’ve followed highest industry standard for Octavia & wrote detailed documentation for the ease of use & customization. Moreover, our dedicated support team is always ready to help you. You can also report bug and submit feature request [HERE](https://github.com/uilibrary/Octavia-admin-Pro-Issues)
 
-Octavia Admin – VueJs and Vuetify Admin Dashboard Template is a clean, feature-rich, extraordinarily customizable & developer friendly admin dashboard template.
-
-We’ve followed highest industry standard for Octavia & wrote detailed documentation for the ease of use & customization. Moreover, our dedicated support team is always ready to help you. You can also report a bug and submit a feature request [HERE](http://)
-
-Octavia is Ultra-Fast, Check Speed [Here](https://gtmetrix.com/reports/www.octavia.ui-lib.com/SWd6ZIcb/)
+Octavia is Ultra Fast , Check Speed [Here](https://gtmetrix.com/reports/www.octavia.ui-lib.com/SWd6ZIcb/)
 
 [![speed-Octavia](https://i.ibb.co/6mytHqp/speed-Octavia.png)](https://gtmetrix.com/reports/www.octavia.ui-lib.com/SWd6ZIcb/)
 
 Octavia Admin Dashboard comes with stunningly designed equipped to apply dashboard interfaces, web page templates, components, plugins with Dark & Light color scheme & RTL
 
-## List of some pages & Features From Octavia Admin
-
-<div class="" style="">
+List of some pages & Features From Octavia Admin
+------------------------------------------------
 
 Octavia Provide Built in Firebase Authentication , Prebuilt Applications with Mock Data to help you quick start your project.
 
-## Features
+Features
+--------
 
 *   Authentication
     *   FireBase
@@ -31,72 +27,80 @@ Octavia Provide Built in Firebase Authentication , Prebuilt Applications with Mo
 *   SaaS Navigation
 *   Fully Responsive
 *   **Dashboards**
-    *   <a href="" target="_blank">Analytic Dashboard</a>
-    *   <a href="" target="_blank">Sales Dashboard</a>
-    *   <a href="" target="_blank">LMS Dashboard</a>
-    *   <a href="" target="_blank">Crypto Dashboard</a>
-    *   <a href="" target="_blank">Donation Dashboard</a>
-    *   <a href="" target="_blank">Job Management Dashboard</a>
+    *   [Analytic Dashboard](https://octavia.ui-lib.com/app/dashboard/analytic)
+    *   [Sales Dashboard](https://octavia.ui-lib.com/app/dashboard/sales)
+    *   [LMS Dashboard](https://octavia.ui-lib.com/app/dashboard/learning-management)
+    *   [Crypto Dashboard](https://octavia.ui-lib.com/app/dashboard/crypto-currency)
+    *   [Donation Dashboard](https://octavia.ui-lib.com/app/dashboard/crypto-currency)
+    *   [Job Management Dashboard](https://octavia.ui-lib.com/app/dashboard/job-management)
 *   **Apps**
-    *   <a href="">eCommerce/Shopping cart</a>
-    *   <a href="" rel="">Scrum board</a>
-    *   <a href="" rel="">Event calendar</a>
-    *   <a href="" rel="">Chat</a>
-    *   <a href="" rel="">Inbox</a>
-    *   <a href="" rel="">To-do list</a>
-*   <a href="" rel="">CRUD list</a>
-*   [Infinite Scroll list](https://matx-react.ui-lib.com/infinite-scroll)
+    *   [eCommerce/Shopping cart](https://octavia.ui-lib.com/app/ecommerce/ecommerce-product-list)
+    *   [Scrum board](https://octavia.ui-lib.com/app/apps/scrumboard)
+    *   [Event calendar](https://octavia.ui-lib.com/app/extraUiKits/calendars)
+    *   [Chat](https://octavia.ui-lib.com/app/apps/chat)
+    *   [Note](https://octavia.ui-lib.com/app/apps/note)
+    *   [To-do list](https://octavia.ui-lib.com/app/apps/todo)
+    *   [File Manager](https://octavia.ui-lib.com/app/apps/file-manager)
 *   **Forms**
-    *   <a href="" rel="">Combobox</a>
-    *   <a href="" rel="">Validation</a>
-    *   <a href="" rel="">Overflow Buttons</a>
-    *   <a href="" rel="">Selects</a>
-    *   <a href="" rel="">Slider</a>
-    *   <a href="" rel="">Text Area</a>
-    *   <a href="" rel="">Text Fields</a>
-    *   <a href="" rel="">Date Pikcet</a>
-    *   <a href="" rel="">Time Picker</a>
+    *   [Combobox](https://octavia.ui-lib.com/app/forms/combobox)
+    *   [Validation](https://octavia.ui-lib.com/app/forms/validation)
+    *   [Overflow Buttons](https://octavia.ui-lib.com/app/forms/overflow-buttons)
+    *   [Selects](https://octavia.ui-lib.com/app/forms/selects)
+    *   [Selection Control](https://octavia.ui-lib.com/app/forms/selection-controls)
+    *   [Slider](https://octavia.ui-lib.com/app/forms/sliders)
+    *   [Text Area](https://octavia.ui-lib.com/app/forms/textarea)
+    *   [Text Fields](https://octavia.ui-lib.com/app/forms/textfields)
+    *   [Date Pikcet](https://octavia.ui-lib.com/app/forms/datepicker)
+    *   [Time Picker](https://octavia.ui-lib.com/app/forms/timepicker)
 *   **Charts**
     *   [Apex Charts](https://matx-react.ui-lib.com/charts/echarts)
 *   **Pages**
+    *   **Projects**
+        *   [Project Overview](https://octavia.ui-lib.com/app/pages/projects/overview)
+    *   **Widgets**
+        *   [General](https://octavia.ui-lib.com/app/pages/widgets/general)
+        *   [Charts](https://octavia.ui-lib.com/app/pages/widgets/widgetsCharts)
+        *   [Table](https://octavia.ui-lib.com/app/pages/widgets/widgetsTable)
+    *   **Faqs**
+        *   [Faq Version One](https://octavia.ui-lib.com/app/pages/faq/faq-one)
+        *   [Faq Version Two](https://octavia.ui-lib.com/app/pages/faq/faq-two)
+        *   [Faq Version Three](https://octavia.ui-lib.com/app/pages/faq/faq-three)
     *   **Lists**
-        *   <a href="" rel="">List Column One</a>
-        *   <a href="" rel="">List Column Two</a>
-        *   <a href="" rel="">List Column Three</a>
-        *   <a href="" rel="">List Row</a>
+        *   [List Column One](https://octavia.ui-lib.com/app/pages/list/list-column)
+        *   [List Column Two](https://octavia.ui-lib.com/app/pages/list/list-column-two)
+        *   [List Column Three](https://octavia.ui-lib.com/app/pages/list/list-column-three)
+        *   [List Row](https://octavia.ui-lib.com/app/pages/list/list-column-row)
     *   **Profile**
-        *   <a href="" rel="">Profile Version One</a>
-        *   <a href="" rel="">Profile Version Two</a>
+        *   [Profile Version One](https://octavia.ui-lib.com/app/pages/profile/profile-one)
+        *   [Profile Version Two](https://octavia.ui-lib.com/app/pages/profile/profile-two)
     *   **Accounts**
-        *   <a href="" rel="">Home</a>
-        *   <a href="" rel="">Data</a>
-        *   <a href="" rel="">Payment</a>
-        *   <a href="" rel="">People</a>
-        *   <a href="" rel="">Security</a>
-        *   <a href="" rel="">Personal Info</a>
+        *   [Home](https://octavia.ui-lib.com/app/pages/account/account-home)
+        *   [Data](https://octavia.ui-lib.com/app/pages/account/account-data)
+        *   [Payment](https://octavia.ui-lib.com/app/pages/account/account-payment)
+        *   [People](https://octavia.ui-lib.com/app/pages/account/account-people)
+        *   [Security](https://octavia.ui-lib.com/app/pages/account/account-security)
+        *   [Personal Info](https://octavia.ui-lib.com/app/pages/account/account-personal-info)
     *   **Pricing**
-        *   <a href="" rel="">Pricing Version One</a>
-        *   <a href="" rel="">Pricing Version Two</a>
-        *   <a href="" rel="">Pricing Version Three</a>
-    *   **Lists**
-        *   <a href="" rel="">Invoice Version One</a>
-        *   <a href="" rel="">Invoice Version Two</a>
-        *   <a href="" rel="">Edit Invoice</a>
+        *   [Pricing Version One](https://octavia.ui-lib.com/app/pages/pricing/pricing-ver-one)
+        *   [Pricing Version Two](https://octavia.ui-lib.com/app/pages/pricing/pricing-ver-two)
+        *   [Pricing Version Three](https://octavia.ui-lib.com/app/pages/pricing/pricing-ver-three)
+    *   **Invoice**
+        *   [Invoice Version One](https://octavia.ui-lib.com/app/pages/invoice/invoice-ver-one)
+        *   [Invoice Version Two](https://octavia.ui-lib.com/app/pages/invoice/invoice-ver-two)
+        *   [Edit Invoice](https://octavia.ui-lib.com/app/pages/invoice/edit-invoice)
     *   **Custom Data Tables**
-        *   <a href="" rel="">Table Version One</a>
-        *   <a href="" rel="">Table Version Two</a>
-        *   <a href="" rel="">Table Version Three</a>
-    *   <a href="" rel="">SignIn Version 1</a>
-    *   <a href="" rel="">SignIn Version 2</a>
-    *   <a href="" rel="">SignIn Version 3</a>
-    *   <a href="" rel="">SignIn Version 4</a>
-    *   <a href="" rel="">SignIn Version 5</a>
-    *   <a href="" rel="">Signup Version 1</a>
-    *   <a href="" rel="">Signup Version 2</a>
-    *   <a href="" rel="">Signup Version 3</a>
-    *   <a href="" rel="">Signup Version 4</a>
-    *   <a href="" rel="">Signup Version 5</a>
-    *   <a href="" rel="">Error</a>
-    *   <a href="" rel="">Forgot Password</a>
-
-</div>
+        *   [Table Version One](https://octavia.ui-lib.com/app/customTable/tableOne)
+        *   [Table Version Two](https://octavia.ui-lib.com/app/customTable/tableTwo)
+        *   [Table Version Three](https://octavia.ui-lib.com/app/customTable/tableThree)
+    *   [SignIn Version 1](https://octavia.ui-lib.com/app/sessions/sign-in)
+    *   [SignIn Version 2](https://octavia.ui-lib.com/app/sessions/sign-in-two)
+    *   [SignIn Version 3](https://octavia.ui-lib.com/app/sessions/sign-in-three)
+    *   [SignIn Version 4](https://octavia.ui-lib.com/app/sessions/sign-in-four)
+    *   [SignIn Version 5](https://octavia.ui-lib.com/app/sessions/sign-in-five)
+    *   [Signup Version 1](https://octavia.ui-lib.com/app/sessions/sign-up)
+    *   [Signup Version 2](https://octavia.ui-lib.com/app/sessions/sign-up-2)
+    *   [Signup Version 3](https://octavia.ui-lib.com/app/sessions/sign-up-5)
+    *   [Lock Screen](https://octavia.ui-lib.com/app/sessions/lockscreen)
+    *   [Error](https://octavia.ui-lib.com/app/sessions/error)
+    *   [Forgot Password](https://octavia.ui-lib.com/app/sessions/forgot)
+*   And Many More .....
