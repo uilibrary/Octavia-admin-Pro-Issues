@@ -2,7 +2,7 @@
 
 # [Octavia Admin Pro](https://octavia-admin.vercel.app)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![version](https://img.shields.io/badge/version-1.6.0-blue.svg)
 
 <a href="https://octavia-admin.vercel.app"><img src="https://i.ibb.co/mBbW0sx/01-preview.png" alt="01-preview" border="0"></a>
 
